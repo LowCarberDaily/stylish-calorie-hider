@@ -12,7 +12,9 @@ Stylish is a user stylesheet manager, and because it uses CSS, instead of JavaSc
 ## Install Stylish
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/stylish/
+
 Chrome: https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en
+
 Safari: http://sobolev.us/stylish/
 
 ## Install Script
