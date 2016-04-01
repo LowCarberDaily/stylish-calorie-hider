@@ -1,0 +1,25 @@
+@-moz-document domain("myfitnesspal.com") {
+.energy-remaining-number, .energy-calculation {
+    display: none !important;
+}
+
+.user-info {
+	width: 250px !important;
+}
+
+.user-info div:first-child {
+    width: 120px !important;
+    display: inline-block !important;
+}
+
+.user-weight-checkin-container {
+    width: 120px !important;
+    display: inline-block !important;
+    vertical-align: top !important;
+    padding-left: 10px !important;
+}
+
+.summary-info {
+    width: 300px !important;
+}
+}
